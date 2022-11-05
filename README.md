@@ -6,7 +6,7 @@ Based with Python3
 ### What Is Stegnography ?
 
 Steganography is the technique of hiding secret data within an ordinary,
-non-secret, file or message in order to avoid detection
+non-secret, file or message in order to avoid detection.
 
 ## Installation
 
@@ -24,3 +24,5 @@ non-secret, file or message in order to avoid detection
 ## Contributors
 
 ![Contributers](https://contributors-img.web.app/image?repo=riz4d/stegnowav)
+
+Stay tuned
